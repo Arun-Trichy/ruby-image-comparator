@@ -1,0 +1,3 @@
+pixels (total):     103200 
+pixels changed:     6816 
+pixels changed (%): 6.604651162790698%
